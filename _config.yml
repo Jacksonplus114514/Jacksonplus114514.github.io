@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "HUANG Hongsheng/Academic Website"
+title                    : "HUANG Hongsheng's Academic Homepage"
 title_separator          : "-"
 name                     : &name "HUANG Hongsheng"
 description              : &description "Stay hungry, stay foolish."
@@ -24,7 +24,7 @@ author:
   avatar           : "2寸白底（原图）.png"
   name             : "HUANG Hongsheng"
   pronouns         : "he"  
-  bio              : "Welcome to my academic page! I'm now a student from Shanghai International Studies University majoring in Journalism. My research interests include critical discourse, corpus linguistics and media discourse. Learn more about me from the website!"
+  bio              : "Welcome to my academic homepage! I'm now a student from Shanghai International Studies University majoring in Journalism. My research interests include critical discourse, corpus linguistics and media discourse. Learn more about me from the website!"
   location         : "Shanghai, China"
   institution      : "Shanghai International Studies University"
   uri              : # URL
