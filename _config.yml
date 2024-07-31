@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "HUANG Hongsheng"
 description              : &description "Stay hungry, stay foolish."
 url                      : https://Jacksonplus114514.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "Jacksonplus114514.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Jacksonplus114514/Jacksonplus114514.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ author:
   avatar           : "2寸白底（原图）.png"
   name             : "HUANG Hongsheng"
   pronouns         : "he"  
-  bio              : "Stay hungry, stay foolish."
+  bio              : "Welcome to my academic page! I'm now a student from Shanghai International Studies University majoring in Journalism. My research interests include critical discourse, corpus linguistics and media discourse. Learn more about me from the website!"
   location         : "Shanghai, China"
   institution      : "Shanghai International Studies University"
   uri              : # URL
