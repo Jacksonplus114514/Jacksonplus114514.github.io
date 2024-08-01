@@ -12,8 +12,8 @@ title                    : "HUANG Hongsheng's Academic Homepage"
 title_separator          : "-"
 name                     : &name "HUANG Hongsheng"
 description              : &description "Stay hungry, stay foolish."
-url                      : https://Jacksonplus114514.github.io
-baseurl                  : "Jacksonplus114514.github.io" # the subpath of your site, e.g. "/blog"
+url                      : "https://jacksonplus114514.github.io"
+baseurl                  : "jacksonplus114514.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Jacksonplus114514/Jacksonplus114514.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -28,7 +28,7 @@ author:
   location         : "Shanghai, China"
   institution      : "Shanghai International Studies University"
   uri              : # URL
-  email            : "jackson.hongsheng@gmail.com""791280259@qq.com"
+  email            : "jackson.hongsheng@gmail.com<br>791280259@qq.com"
   
 
   # Academic websites
